@@ -1,2 +1,3 @@
 # Complete-Arduino-Kit-Code
-This code was written by Emmanuel and it is the complete code for the Arduino Kits that were sold by the club.
+Thank you Emmanuel for writing this code for us!
+This is the complete code (all the compenents intertwined) for the Arduino Kits that were sold by the club.
